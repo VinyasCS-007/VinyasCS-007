@@ -1,16 +1,117 @@
-## Hi there 👋
+<!-- Hacker Matrix Marquee -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Welcome+to+the+Matrix...;I+am+Vinyas+CS;AI+enthusiast%2C+love+hacking+%7C+Currently+Sophomore" alt="Typing SVG" />
+</p>
 
-<!--
-**VinyasCS-007/VinyasCS-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Hero Banner (Cyberpunk/Matrix Vibe) -->
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBjZW1xNGJiejFvdHpuaDlodmIxMzV0c3RkMTl6Z2xqaXV5MWVjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" alt="Cyberpunk Glitch Banner" width="100%" height="200px" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<!-- Interactive Badges -->
+<p align="center">
+  <a href="https://leetcode.com/u/Vinyas_cs"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=39FF14" /></a>
+  <a href="https://linkedin.com/in/vinyas-cs-011a11305"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
+</p>
+
+---
+
+<!-- Animated GitHub Stats & Contribution Graphs -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinyasCS-007&show_icons=true&theme=radical&icon_color=39FF14&title_color=39FF14&text_color=39FF14&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinyasCS-007&theme=radical&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinyasCS-007&theme=react-dark&color=39FF14&line=39FF14&point=39FF14&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+<!-- Snake GitHub Contributions -->
+<p align="center">
+  <img src="https://github.com/VinyasCS-007/VinyasCS-007/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<!-- Trophies (Glassmorphism/Neon) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VinyasCS-007&theme=matrix&no-frame=true&title=Followers,Stars,Commit,PR,Issues&column=5&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
+<!-- Animated Skills Grid -->
+<h2 align="center"><img src="https://img.icons8.com/fluency/48/000000/source-code.png"/> Skills & Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,react,mysql,matlab,adobepremierepro,unity,html,css,javascript&theme=dark" alt="Skills" />
+</p>
+
+---
+
+<!-- Pinned Repos (Holographic Cards) -->
+<h2 align="center">🚀 Pinned Projects</h2>
+<p align="center">
+  <a href="https://github.com/VinyasCS-007/WeatherReportApp_Using_JAVA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinyasCS-007&repo=WeatherReportApp_Using_JAVA&theme=radical&bg_color=0d1117&title_color=39FF14&text_color=39FF14" />
+  </a>
+  <a href="https://github.com/VinyasCS-007/Satellite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinyasCS-007&repo=Satellite&theme=radical&bg_color=0d1117&title_color=39FF14&text_color=39FF14" />
+  </a>
+</p>
+
+---
+
+<!-- Projects Gallery -->
+<h2 align="center">🖼️ Projects Gallery</h2>
+<p align="center">
+  <img src="https://github.com/VinyasCS-007/WeatherReportApp_Using_JAVA/raw/main/demo.gif" width="250" />
+  <img src="https://github.com/VinyasCS-007/Satellite/raw/main/demo.gif" width="250" />
+</p>
+
+---
+
+<!-- Fun Facts Section -->
+<h2 align="center">🤖 Fun Facts</h2>
+<ul>
+  <li>Watching movies is my favorite way to relax.</li>
+</ul>
+
+---
+
+<!-- Visitors Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VinyasCS-007&style=flat-square&color=39FF14" alt="Profile Views" />
+</p>
+
+---
+
+<!-- Custom SVG Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/svg/lines/line-graph-neon.svg" alt="SVG Divider" />
+</p>
+
+---
+
+<!-- Terminal Style About Me -->
+<pre>
+<span style="color:#39FF14;">&gt; whoami</span>
+<span style="color:#39FF14;">Vinyas CS</span>
+<span style="color:#39FF14;">&gt; echo "AI enthusiast, love hacking | Currently Sophomore"</span>
+</pre>
+
+---
+
+<!-- Contributions Heatmap -->
+<p align="center">
+  <img src="https://github.com/VinyasCS-007/github-profile-views-counter/blob/master/svg/heatmap.svg" alt="Contributions Heatmap" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=System+Ready...;Welcome+to+the+Future+of+Code" alt="Typing SVG" />
+</p>
