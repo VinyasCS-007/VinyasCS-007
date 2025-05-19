@@ -90,13 +90,6 @@
 
 ---
 
-<!-- Custom SVG Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/svg/lines/line-graph-neon.svg" alt="SVG Divider" />
-</p>
-
----
-
 <!-- Terminal Style About Me -->
 <pre>
 <span style="color:#39FF14;">&gt; whoami</span>
