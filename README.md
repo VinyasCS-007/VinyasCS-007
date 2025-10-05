@@ -14,13 +14,13 @@
   />
 </p>
 
-
-
 <!-- Hero Banner (Cyberpunk/Matrix Vibe) -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBjZW1xNGJiejFvdHpuaDlodmIxMzV0c3RkMTl6Z2xqaXV5MWVjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" alt="Cyberpunk Glitch Banner" width="100%" height="200px" />
 </p>
-
+<p align="center">
+  <img src="https://github.com/VinyasCS-007/VinyasCS-007/blob/main/Profile.png" width="500"  />
+</p>
 
 
 
