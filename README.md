@@ -1,7 +1,12 @@
+<!-- ಹ್ಯಾಕರ್ ಮ್ಯಾಟ್ರಿಕ್ಸ್ ಮಾರ್ಕೀ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=%E0%B2%AE%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%9F%E0%B3%8D%E0%B2%B0%E0%B2%BF%E0%B2%95%E0%B3%8D%E0%B2%B8%E0%B3%8D%E2%80%8C%E0%B2%97%E0%B3%86+%E0%B2%B8%E0%B3%8D%E0%B2%B5%E0%B2%BE%E0%B2%97%E0%B2%A4...;%E0%B2%A8%E0%B2%BE%E0%B2%A8%E0%B3%81+%E0%B2%B5%E0%B2%BF%E0%B2%A8%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%B8%E0%B3%8D+%E0%B2%B8%E0%B2%BF.%E0%B2%8E%E0%B2%B8%E0%B3%8D;%E0%B2%95%E0%B3%83%E0%B2%A4%E0%B2%95+%E0%B2%AC%E0%B3%81%E0%B2%A6%E0%B3%8D%E0%B2%A7%E0%B2%BF%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%86+%E0%B2%86%E0%B2%B8%E0%B2%95%E0%B3%8D%E0%B2%A4%2C+%E0%B2%B9%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%95%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D+%E0%B2%87%E0%B2%B7%E0%B3%8D%E0%B2%9F%E0%B2%B5%E0%B2%BF%E0%B2%A6%E0%B3%86+%7C+%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%B8%E0%B3%8D%E0%B2%A4%E0%B3%81%E0%B2%A4+%E0%B2%A6%E0%B3%8D%E0%B2%B5%E0%B2%BF%E0%B2%A4%E0%B3%80%E0%B2%AF+%E0%B2%B5%E0%B2%B0%E0%B3%8D%E0%B2%B7" alt="Typing SVG" />
+</p>
 <!-- Hacker Matrix Marquee -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Welcome+to+the+Matrix...;I+am+Vinyas+CS;AI+enthusiast%2C+love+hacking+%7C+Currently+Sophomore" alt="Typing SVG" />
 </p>
+
 
 <!-- Hero Banner (Cyberpunk/Matrix Vibe) -->
 <p align="center">
