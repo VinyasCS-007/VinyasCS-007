@@ -3,12 +3,10 @@
 <!-- 3D Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=VINYAS%20CS&fontSize=70&color=0:0d1117,100:39FF14&fontColor=39FF14&stroke=39FF14&strokeWidth=2&animation=twinkling&desc=AI%20Enthusiast%20%7C%20Ethical%20Hacker%20%7C%20Third%20Year%20CS%20Student&descAlignY=70&descAlign=50" alt="Header" />
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=Welcome+to+the+Matrix...;I+am+Vinyas+CS;AI+Enthusiast+%7C+Love+Hacking;Building+Tomorrow's+Technology+Today;Let's+Code+Something+Amazing!" alt="Typing SVG" />
-
-<!-- Matrix Rain Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=Welcome+to+the+Matrix...;I+am+Vinyas+CS;AI+Enthusiast+%7C+Love+Hacking;Building+Tomorrow's+Technology+Today;Let's+Code+Something+Amazing!" alt="Typing SVG" /><!-- Matrix Rain Effect -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
 </div>
+
 
 <!-- Profile Image -->
 <div align="center">
