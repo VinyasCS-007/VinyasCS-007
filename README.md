@@ -362,24 +362,12 @@
     <td align="left">🎬 Movie buff - Cinema is my escape from bugs</td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/fluency/48/000000/code.png" width="40"/></td>
-    <td align="left">💻 I code at midnight and dream in algorithms</td>
-  </tr>
-  <tr>
     <td><img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="40"/></td>
     <td align="left">🤖 AI enthusiast building intelligent solutions</td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/fluency/48/000000/hacker.png" width="40"/></td>
     <td align="left">🔒 Ethical hacker securing the digital frontier</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/fluency/48/000000/coffee.png" width="40"/></td>
-    <td align="left">☕ Coffee = Code Fuel (Essential for debugging)</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/fluency/48/000000/github.png" width="40"/></td>
-    <td align="left">🌟 Open source contributor and community builder</td>
   </tr>
 </table>
 
@@ -480,6 +468,22 @@ If you like my projects and want to support my work, consider:
 </details>
 
 ---
+<!-- Visitors Counter -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Visitor" width="35" height="35" />
+  <span style="color: #39FF14;"> VISITOR_LOG </span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Visitor" width="35" height="35" />
+</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VinyasCS-007&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/VISITORS-COUNTING-0A0A0A?style=for-the-badge&logo=github&logoColor=39FF14" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@VinyasCS-007?theme=rule34" alt="Profile Counter" />
+</p>
+
 
 <!-- Footer -->
 <div align="center">
