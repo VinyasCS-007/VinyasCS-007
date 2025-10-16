@@ -108,21 +108,28 @@
 
 ---
 
-<!-- 3D Contribution Graph -->
+<!-- 3D Contribution & Activity Graph -->
 <div align="center">
 
-## 🌃 3D CONTRIBUTION GRAPH
+## 🌃 3D CONTRIBUTION & ACTIVITY
 
+<!-- GitHub Skyline (3D) -->
 <a href="https://skyline.github.com/VinyasCS-007/2024">
   <img src="https://img.shields.io/badge/View%203D%20Skyline-39FF14?style=for-the-badge&logo=github&logoColor=0d1117" alt="GitHub Skyline" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vinyas_CS&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=ffffff" alt="Wakatime Stats" />
+<br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VinyasCS-007&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- WakaTime Stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vinyas_CS&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=ffffff" alt="WakaTime Stats" />
+
+<br><br>
+
+<!-- GitHub Activity Graph -->
+[![GitHub Activity Graph](https://readme-activity-graph.vercel.app/graph?username=VinyasCS-007&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=003300&hide_border=true&custom_title=Contribution%20Graph%20-%20Activity%20Over%20Time&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
----
 
 <!-- Contribution Heatmap -->
 <div align="center">
