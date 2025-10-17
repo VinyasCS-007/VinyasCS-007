@@ -168,7 +168,7 @@
 ## 🛠️ TECH ARSENAL - FULL STACK
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,go,rust,r&theme=dark&perline=9" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript&theme=dark&perline=9" alt="Languages" />
 
 ### Frontend Development
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,angular,tailwind,bootstrap,materialui,sass&theme=dark&perline=12" alt="Frontend" />
@@ -177,7 +177,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,dotnet,graphql&theme=dark&perline=8" alt="Backend" />
 
 ### Database & Storage
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase,supabase&theme=dark&perline=7" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase,supabase&theme=dark&perline=7" alt="Databases" />
 
 ### AI/ML & Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,matlab&theme=dark&perline=5" alt="AI/ML" />
@@ -188,8 +188,6 @@
 ### Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,ubuntu,bash,powershell,postman,figma,unity,premiere&theme=dark&perline=12" alt="Tools" />
 
-### Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio,kotlin&theme=dark&perline=5" alt="Mobile" />
 
 </div>
 
